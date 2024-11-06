@@ -6,4 +6,6 @@ import App from './views/App'
 
 ReactDOM
     .createRoot(document.getElementById('root'))
-    .render(<App />)
+    .render(        
+        <App />        
+    )
